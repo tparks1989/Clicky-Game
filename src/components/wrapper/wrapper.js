@@ -1,7 +1,7 @@
+
 import React from "react";
-import "./Wrapper.css";
+import "./wrapper.css";
 
-//stateless component
-const Wrapper = props => <div className="wrapper">{props.children}</div>;
+const wrapper = props => <div className= {props.shakeWrapper==="true" ? "wrapperShake" : "wrapper"}>{props.pictures}</div>;
 
-export default Wrapper;
+export default wrapper;

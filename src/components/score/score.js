@@ -1,5 +1,5 @@
 import React from "react";
-import "./Score.css";
+import "./score.css";
 import Arrow from 'react-icons/lib/fa/caret-right';
 
 //stateless component
