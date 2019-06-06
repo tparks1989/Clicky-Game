@@ -4,84 +4,84 @@
     "id": 1,
     "name": "Jordan 1",
     "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwig34nqzNPiAhXLUt8KHaUiDvUQjRx6BAgBEAU&url=https%3A%2F%2Fstockx.com%2Fair-jordan-1-retro-high-bred-toe&psig=AOvVaw0OhQqBy4pMxLDpIPiqYnIX&ust=1559867338726403",
-    "occupation": "Debut Shoe",
-    "location": "Rookie Year"
+    "model": "Debut Shoe",
+    "significance": "Rookie Year"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "Jordan 2",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj2m8ru39PiAhVymeAKHe-vCH4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.flightclub.com%2Fair-jordan-2-retro-black-infrared-23-pr-pltnm-wht-011906&psig=AOvVaw1cyDT1BvammYdKwOtw43WN&ust=1559872448835903",
+    "model": "Second Shoe",
+    "significance": "Sophmore Year"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Jordan 3",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjIxcSB4NPiAhXrmuAKHbpGB8MQjRx6BAgBEAU&url=https%3A%2F%2Fwww.flightclub.com%2Fair-jordan-3-retro-black-varsity-red-cement-grey-011502&psig=AOvVaw3kmeVKYSuk_MRxAb9e4oii&ust=1559872489475639",
+    "model": "Third Shoe",
+    "significance": "Introducing Tinker"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Jordan 4",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiYgcOY4NPiAhUyneAKHfVFDdAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2FJordan-Basketball-Trainers-840606-Sneakers%2Fdp%2FB07B2MZL8Z&psig=AOvVaw1bnB2GkfQvVqSCDNYAmPMK&ust=1559872534218398",
+    "model": "Fourth Shoe",
+    "significance": "Scoring Monster"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "Jordan 5",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstockx.imgix.net%2FAir-Jordan-5-Retro-Grape-Fresh-Prince-Product.jpg%3Ffit%3Dfill%26bg%3DFFFFFF%26w%3D700%26h%3D500%26auto%3Dformat%2Ccompress%26q%3D90%26dpr%3D2%26trim%3Dcolor%26updated_at%3D1539027431&imgrefurl=https%3A%2F%2Fstockx.com%2Fair-jordan-5-retro-grape-fresh-prince&docid=lHZsYEmc3N5sVM&tbnid=K9IxZopshdoUAM%3A&vet=10ahUKEwi_zKOo4NPiAhUFUt8KHQoGB2kQMwjbASgCMAI..i&w=1400&h=1000&bih=560&biw=1040&q=jordan%205&ved=0ahUKEwi_zKOo4NPiAhUFUt8KHQoGB2kQMwjbASgCMAI&iact=mrc&uact=8",
+    "model": "Fifth Shoe",
+    "significance": "Fresh Prince"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Jordan 6",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiYtfu34NPiAhURhuAKHRjJD2MQjRx6BAgBEAU&url=https%3A%2F%2Fstockx.com%2Fair-jordan-6-retro-black-infrared-2019&psig=AOvVaw2mv1Vl31dmnX9i9N9tJbMb&ust=1559872606613521",
+    "model": "Sixth Shoe",
+    "significance": "First Chip"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Jordan 7",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwih3bDG4NPiAhXSnOAKHcaeAzgQjRx6BAgBEAU&url=https%3A%2F%2Fstockx.com%2Fjordan-7-retro-hare-2015&psig=AOvVaw2Qpom8b0f1fr3HbqystFnK&ust=1559872634503615",
+    "model": "Seventh Shoe",
+    "significance": "Second Chip"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Jordan 8",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi22abc4NPiAhVphOAKHYEJCX8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.jordan.com%2Fcollection%2Fair-jordan-8&psig=AOvVaw1DejuNGmXg5XyQIqjH5qAL&ust=1559872671480580",
+    "model": "Eighth Shoe",
+    "significance": "Third Chip"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "Jordan 9",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.flightclub.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F1600x1140%2F9df78eab33525d08d6e5fb8d27136e95%2Fa%2Fi%2Fair-jordan-9-retro-barons-white-black-wolf-grey-011883_1.png&imgrefurl=https%3A%2F%2Fwww.flightclub.com%2Fair-jordan-9-retro-white-black-wolf-grey-011883&docid=H_OHtR09ljUSTM&tbnid=W2Ibme1kJLyIIM%3A&vet=10ahUKEwiW2M324NPiAhXict8KHQRhBe0QMwi4ASgAMAA..i&w=1600&h=1140&bih=560&biw=1040&q=jordan%209&ved=0ahUKEwiW2M324NPiAhXict8KHQRhBe0QMwi4ASgAMAA&iact=mrc&uact=8",
+    "model": "Ninth Shoe",
+    "significance": "Baseball Days"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "Jordan 10",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.flightclub.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F1600x1140%2F9df78eab33525d08d6e5fb8d27136e95%2Fa%2Fi%2Fair-jordan-10-retro-30th-bulls-over-broadway-gym-red-black-wolf-grey-012116_1.jpg&imgrefurl=https%3A%2F%2Fwww.flightclub.com%2Fair-jordan-10-retro-30th-gym-red-black-wolf-grey-012116&docid=Xb92eXql9HakFM&tbnid=9wzmLg_nJxg43M%3A&vet=10ahUKEwiyt9-J4dPiAhXOnuAKHZwgAGAQMwiAASgFMAU..i&w=1600&h=1140&bih=560&biw=1040&q=jordan%2010&ved=0ahUKEwiyt9-J4dPiAhXOnuAKHZwgAGAQMwiAASgFMAU&iact=mrc&uact=8",
+    "model": "Cashier",
+    "significance": "O-Town, California"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Jordan 11",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.flightclub.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F1600x1140%2F9df78eab33525d08d6e5fb8d27136e95%2F8%2F0%2F805882_2.jpg&imgrefurl=https%3A%2F%2Fwww.flightclub.com%2Fair-jordan-11-retro-white-black-concord-805882&docid=VLCwTPTPRGNVUM&tbnid=PiNK2ATFTYY8uM%3A&vet=10ahUKEwij1ZKY4dPiAhUhh-AKHaTlCMEQMwj4ASgAMAA..i&w=1600&h=1140&bih=560&biw=1040&q=jordan%2011&ved=0ahUKEwij1ZKY4dPiAhUhh-AKHaTlCMEQMwj4ASgAMAA&iact=mrc&uact=8",
+    "model": "Eleventh Shoe",
+    "significance": "The Holy Grails"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Jordan 12",
+    "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj7_oS44dPiAhWoUt8KHblACksQjRx6BAgBEAU&url=https%3A%2F%2Frunrepeat.com%2Fair-jordan-12-retro&psig=AOvVaw2VXwilpUrlYNNdIv3V_jii&ust=1559872846242514",
+    "model": "Twelth Shoe",
+    "significance": "Flu Game"
   }
 ]
