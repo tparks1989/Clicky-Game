@@ -6,7 +6,6 @@ import wrapper from "./components/wrapper";
 import cards from "./cards.json";
 
 class App extends Component {
-  // Setting this.state.cards to the cards json array
   state = {
     cards,
     clickedArray: [],
@@ -16,10 +15,8 @@ class App extends Component {
     shakeit: "false"
   };
   clickPicture = id => {
-    // Arrange the pictures in a random manner
     const shuffledArray = this.shuffleArray(cards);
     this.setState({cards: shuffledArray});
-    // if clicked an image already clicked set this.state.score = 0; empty clickeadArray, end of if block
     if (this.state.clickedArray.includes(id)) {
       this.setState({ score: 0, clickedArray: [], message: "Incorrect!! Game Over ☹️ Click an image to start again!", shakeit: "true"});
     }
@@ -31,11 +28,9 @@ class App extends Component {
         shakeit: "false"
       });
     }
-    // set topscore = score if score>topscore.
     if (this.state.score > this.state.topScore) {
       this.setState({ topScore: this.state.score });
     }
-    // shake the wrapper if shakeit is set to true
   }
   shuffleArray = (picturesArray) => {
       for (let i = picturesArray.length - 1; i > 0; i--) {
@@ -63,7 +58,7 @@ class App extends Component {
             <card
               clickPicture={this.clickPicture}
               id={picture.id}
-              key={picture.id} // to get rid of unique key prop warning
+              key={picture.id} 
               name={picture.name}
               image={picture.image}
             />
