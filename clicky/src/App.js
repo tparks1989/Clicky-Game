@@ -44,10 +44,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React Clicky Game!!</h1>
+          <h1 className="App-title">Welcome to the sneaker head clicky game!!</h1>
         </header>
         <h3 className="App-intro">
-          <strong>Click on an image to earn points, but don't click on any, more than once!</strong> 
+          <strong>Click on any sneaker to earn points. Be aware! If you click a sneaker twice the game will be over.</strong> 
           <p className = "score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
           <p className="message"><strong>{this.state.message}</strong></p>
         </h3>
