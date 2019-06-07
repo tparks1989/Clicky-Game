@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import card from "./components/card";
-import wrapper from "./components/wrapper";
+import Card from "./components/card";
+import Wrapper from "./components/wrapper";
 import cards from "./cards.json";
 
 class App extends Component {
@@ -51,11 +51,11 @@ class App extends Component {
           <p className = "score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
           <p className="message"><strong>{this.state.message}</strong></p>
         </h3>
-        <wrapper
+        <Wrapper
         shakeWrapper = {this.state.shakeit}
         pictures=
           {this.state.cards.map(picture => (
-            <card
+            <Card
               clickPicture={this.clickPicture}
               id={picture.id}
               key={picture.id} 
